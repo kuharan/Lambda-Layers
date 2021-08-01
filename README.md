@@ -4,9 +4,9 @@
 
 A collection of AWS lambda layers for python
 
-| Sl No. | Package        | Python Version | Source                                     | Link                         |
-|--------|----------------|----------------|--------------------------------------------|------------------------------|
-| 1      | pyodbc         | 3.7            | <https://pypi.org/project/pyodbc/>         | 3.7\pyodbc-layer.zip         |
-| 2      | pandas         | 3.8            | <https://pypi.org/project/pandas/>         | 3.8\pandas-layer.zip         |
-| 3      | beautifulsoup4 | 3.8            | <https://pypi.org/project/beautifulsoup4/> | 3.8\beautifulsoup4-layer.zip |
-| 4      | requests       | 3.8            | <https://pypi.org/project/requests/>       | 3.8\requests-layer.zip       |
+| Sl No. | Package        | Python Version | Source                                   | Link                                                                                                                        |
+|--------|----------------|----------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1      | pyodbc         | 3.7            | <https://pypi.org/project/pyodbc/>         | [Link](https://github.com/kuharan/Lambda-Layers/blob/fdb4edf0ffe9e65493c06d99490838f27c14786e/3.7/pyodbc-layer.zip)         |
+| 2      | pandas         | 3.8            | <https://pypi.org/project/pandas/>         | [Link](https://github.com/kuharan/Lambda-Layers/blob/fdb4edf0ffe9e65493c06d99490838f27c14786e/3.8/pandas-layer.zip)         |
+| 3      | beautifulsoup4 | 3.8            | <https://pypi.org/project/beautifulsoup4/> | [Link](https://github.com/kuharan/Lambda-Layers/blob/fdb4edf0ffe9e65493c06d99490838f27c14786e/3.8/beautifulsoup4-layer.zip) |
+| 4      | requests       | 3.8            | <https://pypi.org/project/requests/>       | [Link](https://github.com/kuharan/Lambda-Layers/blob/fdb4edf0ffe9e65493c06d99490838f27c14786e/3.8/requests-layer.zip)       |
