@@ -14,4 +14,4 @@ A collection of AWS lambda layers for python. Looking for developers and open so
 |      5 |    openpyxl       |            3.8 | <https://pypi.org/project/openpyxl/>       | [Link](https://github.com/kuharan/Lambda-Layers/blob/a39a084c3cdd0bf27c6a3fcc77d4da56681c4e9a/3.8/openpyxl-layer.zip)       |
 |      6 |    pypdf2         |            3.8 | <https://pypi.org/project/PyPDF2/>         | [Link](https://github.com/kuharan/Lambda-Layers/blob/1f997a7d45af04278a0b152e71c87bdd3616a501/3.8/pypdf2-layer.zip)         |
 |      7 |    brotlipy       |            3.8 | <https://pypi.org/project/brotlipy/>       | [Link](https://github.com/kuharan/Lambda-Layers/blob/88997e086ce17b59783c048751d6c9ff72f0e71d/3.8/brotlipy-layer.zip)       |
-|      8 |    pymysql        |            3.8 | <https://pypi.org/project/PyMySQL/>        | [Link](3.8/pymysql-layer.zip/pymysql-layer.zip)        |
+|      8 |    pymysql        |            3.8 | <https://pypi.org/project/PyMySQL/>        | [Link](3.8/pymysql-layer.zip)        |
