@@ -15,3 +15,4 @@ A collection of AWS lambda layers for python. Looking for developers and open so
 |      6 |    pypdf2         |            3.8 | <https://pypi.org/project/PyPDF2/>         | [Link](3.8/pypdf2-layer.zip)         |
 |      7 |    brotlipy       |            3.8 | <https://pypi.org/project/brotlipy/>       | [Link](3.8/brotlipy-layer.zip)       |
 |      8 |    pymysql        |            3.8 | <https://pypi.org/project/PyMySQL/>        | [Link](3.8/pymysql-layer.zip)        |
+|      9 |    pillow         |            3.8 | <https://pypi.org/project/Pillow/>         | [Link](3.8/pillow-layer.zip)         |
