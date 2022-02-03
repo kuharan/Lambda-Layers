@@ -1,9 +1,11 @@
 # Lambda-Layers
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fkuharan%2FLambda-Layers)
-
 A collection of AWS lambda layers for python. Looking for developers and open source contributors for building layers for other python versions. If intestered, please send me PRs for the same.
 
+## Milestones :triangular_flag_on_post:
+ - 25 Stars :heavy_check_mark:
+
+## Table of Contents
 
 | Sl No. |      Package      | Python Version |                   Source                   |                                                            Link                                                             |
 |--------|-------------------|----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
