@@ -4,7 +4,7 @@ A collection of AWS lambda layers for python. Looking for developers and open so
 
 ## Milestones :triangular_flag_on_post:
  - 25 Stars :heavy_check_mark: ```31st Jan 2022```
- - 10 Layers :heavy_check_mark: ```22 Mar 2022```
+ - 10 Layers :heavy_check_mark: ```22nd Mar 2022```
 
 ## Table of Contents
 
