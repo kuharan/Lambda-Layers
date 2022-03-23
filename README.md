@@ -20,3 +20,5 @@ A collection of AWS lambda layers for python. Looking for developers and open so
 |      8 |    pymysql        |            3.8 | <https://pypi.org/project/PyMySQL/>        | [Link](3.8/pymysql-layer.zip)        |
 |      9 |    pillow         |            3.8 | <https://pypi.org/project/Pillow/>         | [Link](3.8/pillow-layer.zip)         |
 |     10 |    html2text      |            3.8 | <https://pypi.org/project/html2text/>      | [Link](3.8/html2text-layer.zip)      |
+|     11 |    lxml           |            3.8 | <https://pypi.org/project/lxml/>           | [Link](3.8/lxml-layer.zip)           |
+|     12 |    tabulate       |            3.8 | <https://pypi.org/project/tabulate/>       | [Link](3.8/tabulate-layer.zip)       |
