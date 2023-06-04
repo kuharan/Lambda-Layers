@@ -1,6 +1,8 @@
 # Lambda-Layers
 
-A collection of AWS Lambda layers for Python. Looking for developers and open source contributors for building layers in other Python versions. If interested, please send me PRs for the same.
+A collection of AWS Lambda layers for Python. 
+
+I am actively seeking developers and open source contributors to help build layers in other Python versions. If you're interested, please send me your pull requests.
 
 ## Milestones :triangular_flag_on_post:
 - 10 forks :heavy_check_mark: `23rd Apr 2022`
