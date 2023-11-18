@@ -5,9 +5,12 @@ A collection of AWS Lambda layers for Python.
 I am actively seeking developers and open source contributors to help build layers in other Python versions. If you're interested, please send me your pull requests.
 
 ## Milestones :triangular_flag_on_post:
-- 16 forks :heavy_check_mark: `22nd Jul 2023`
-- 13 Layers :heavy_check_mark: `22nd Jul 2023`
-- 49 Stars :heavy_check_mark: `22nd Jul 2023`
+- 10 forks :heavy_check_mark: `23rd Apr 2022`
+- 10 Layers :heavy_check_mark: `22nd Mar 2022`
+- 25 Stars :heavy_check_mark: `31st Jan 2022`
+- 50 Stars :heavy_check_mark: `1st Jan 2023`
+- 20 Layers 
+- 100 Stars 
 
 ## Table of Contents
 
